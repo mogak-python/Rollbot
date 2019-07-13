@@ -2,4 +2,4 @@
 config.yml
 
 # venv
-rollbot_venv
+rollbot_venv/
