@@ -1,5 +1,8 @@
 # security issue
-config.yml
+config.json
 
 # venv
 rollbot_venv/
+
+# env
+.vscode/
