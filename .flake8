@@ -1,0 +1,5 @@
+[flake8]
+import-order-style=pycharm
+max-complexity=50
+exclude=.git, __pycache__
+count=True
