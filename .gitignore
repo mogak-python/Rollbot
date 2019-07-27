@@ -6,3 +6,6 @@ rollbot_venv/
 
 # env
 .vscode/
+
+# etc
+__pycache__/
